@@ -1,0 +1,907 @@
+[
+  {
+    "title": "¿Cómo me registro, como profesor, para una cuenta de Canvas Gratis para profesores?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-me-registro-como-profesor-para-una-cuenta-de-Canvas-Gratis/ta-p/2273"
+  },
+  {
+    "title": "¿Cómo puedo usar Canvas en mi dispositivo móvil como instructor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-puedo-usar-Canvas-en-mi-dispositivo-m%C3%B3vil-como-instructor/ta-p/2317"
+  },
+  {
+    "title": "¿Cómo puedo ver el Análisis de un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-puedo-ver-el-An%C3%A1lisis-de-un-curso/ta-p/2277"
+  },
+  {
+    "title": "¿Cómo puedo ver el Análisis para un estudiante en mi curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-puedo-ver-el-An%C3%A1lisis-para-un-estudiante-en-mi-curso/ta-p/2254"
+  },
+  {
+    "title": "¿Cómo puedo ver Nuevas analíticas en un curso como un profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-puedo-ver-Nuevas-anal%C3%ADticas-en-un-curso-como-un-profesor/ta-p/474159"
+  },
+  {
+    "title": "¿Cómo veo y descargo los reportes en Nuevas analíticas (New Analytics)?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-veo-y-descargo-los-reportes-en-Nuevas-anal%C3%ADticas-New/ta-p/474162"
+  },
+  {
+    "title": "¿Cómo veo las analíticas de la actividad semanal en línea en una tabla de datos en Nuevas analíticas (New Analytics)?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-veo-las-anal%C3%ADticas-de-la-actividad-semanal-en-l%C3%ADnea-en-una/ta-p/474163"
+  },
+  {
+    "title": "¿Cómo comparo el gráfico promedio del curso con un filtro de tarea, sección o estudiante en Nuevas analíticas (New Analytics)?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-comparo-el-gr%C3%A1fico-promedio-del-curso-con-un-filtro-de/ta-p/474160"
+  },
+  {
+    "title": "¿Cómo comparo la tabla de datos promedio del curso con un filtro de tarea, sección o estudiante en Nuevas analíticas (New Analytics)?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-comparo-la-tabla-de-datos-promedio-del-curso-con-un-filtro/ta-p/474161"
+  },
+  {
+    "title": "¿Cómo les envío un mensaje a todos los estudiantes en función de criterios del curso específicos en Nuevas analíticas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-les-env%C3%ADo-un-mensaje-a-todos-los-estudiantes-en-funci%C3%B3n-de/ta-p/474155"
+  },
+  {
+    "title": "¿Cómo agrego un anuncio en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-agrego-un-anuncio-en-un-curso/ta-p/2264"
+  },
+  {
+    "title": "¿Cómo uso la página Índice de anuncios?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-la-p%C3%A1gina-%C3%8Dndice-de-anuncios/ta-p/2221"
+  },
+  {
+    "title": "¿Cómo edito un anuncio en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-edito-un-anuncio-en-un-curso/ta-p/560691"
+  },
+  {
+    "title": "¿Cómo agrego o edito detalles en una tarea?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-agrego-o-edito-detalles-en-una-tarea/ta-p/2332"
+  },
+  {
+    "title": "¿Cómo agrego grupos de tareas en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-agrego-grupos-de-tareas-en-un-curso/ta-p/2329"
+  },
+  {
+    "title": "¿Cómo puedo crear reglas para un grupo de tareas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-puedo-crear-reglas-para-un-grupo-de-tareas/ta-p/2301"
+  },
+  {
+    "title": "¿Cómo ponderar la calificación final del curso basado en los grupos de tareas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-ponderar-la-calificaci%C3%B3n-final-del-curso-basado-en-los/ta-p/2330"
+  },
+  {
+    "title": "¿Cómo uso la página Índice de tareas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-la-p%C3%A1gina-%C3%8Dndice-de-tareas/ta-p/2243"
+  },
+  {
+    "title": "¿Cómo creo una tarea en línea?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-creo-una-tarea-en-l%C3%ADnea/ta-p/2282"
+  },
+  {
+    "title": "¿Cómo agrego una tarea usando una aplicación externa?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-agrego-una-tarea-usando-una-aplicaci%C3%B3n-externa/ta-p/2179"
+  },
+  {
+    "title": "¿Cómo creo una tarea con revisión entre pares?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-creo-una-tarea-con-revisi%C3%B3n-entre-pares/ta-p/2193"
+  },
+  {
+    "title": "¿Cómo asigno una tarea a un estudiante en particular?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-asigno-una-tarea-a-un-estudiante-en-particular/ta-p/2184"
+  },
+  {
+    "title": "¿Cómo utilizo las tareas de revisión por pares en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-utilizo-las-tareas-de-revisi%C3%B3n-por-pares-en-un-curso/ta-p/473025"
+  },
+  {
+    "title": "¿Cuál es la diferencia entre fechas límites y fechas de disponibilidad para una tarea?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/Cu%C3%A1l-es-la-diferencia-entre-fechas-l%C3%ADmites-y-fechas-de/ta-p/473022"
+  },
+  {
+    "title": "¿Cómo puedo dar créditos extra en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-puedo-dar-cr%C3%A9ditos-extra-en-un-curso/ta-p/473018"
+  },
+  {
+    "title": "¿Cómo asigno una tarea a un grupo del curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-asigno-una-tarea-a-un-grupo-del-curso/ta-p/473007"
+  },
+  {
+    "title": "¿Qué tipos de tareas puedo crear en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/Qu%C3%A9-tipos-de-tareas-puedo-crear-en-un-curso/ta-p/473016"
+  },
+  {
+    "title": "¿Cómo actualizo de manera masiva las fechas de entrega y de disponibilidad como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-actualizo-de-manera-masiva-las-fechas-de-entrega-y-de/ta-p/473024"
+  },
+  {
+    "title": "¿Puede un estudiante volver a enviar las tareas de Canvas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/Puede-un-estudiante-volver-a-enviar-las-tareas-de-Canvas/ta-p/473013"
+  },
+  {
+    "title": "¿Cómo creo una tarea?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-creo-una-tarea/ta-p/544992"
+  },
+  {
+    "title": "¿Cómo publico o anulo la publicación de una tarea como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-publico-o-anulo-la-publicaci%C3%B3n-de-una-tarea-como-profesor/ta-p/612706"
+  },
+  {
+    "title": "¿Cómo uso el calendario como un profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-el-calendario-como-un-profesor/ta-p/2253"
+  },
+  {
+    "title": "¿Cómo puedo añadir un evento al calendario de un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-puedo-a%C3%B1adir-un-evento-al-calendario-de-un-curso/ta-p/2249"
+  },
+  {
+    "title": "¿Cómo filtro la vista del calendario por curso como instructor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-filtro-la-vista-del-calendario-por-curso-como-instructor/ta-p/2210"
+  },
+  {
+    "title": "¿Cómo hago para ver el canal iCal del calendario y suscribirme a un calendario externo como instructor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-hago-para-ver-el-canal-iCal-del-calendario-y-suscribirme-a/ta-p/2212"
+  },
+  {
+    "title": "¿Cómo agrego un grupo de citas del Planificador en el calendario de un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-agrego-un-grupo-de-citas-del-Planificador-en-el-calendario/ta-p/2198"
+  },
+  {
+    "title": "¿Cómo uso la página Índice de colaboraciones?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-la-p%C3%A1gina-%C3%8Dndice-de-colaboraciones/ta-p/2232"
+  },
+  {
+    "title": "¿Cómo puedo crear una conferencia en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-puedo-crear-una-conferencia-en-un-curso/ta-p/2321"
+  },
+  {
+    "title": "¿Cómo utilizo la interfaz de Conferencias como moderador o presentador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-utilizo-la-interfaz-de-Conferencias-como-moderador-o/ta-p/2320"
+  },
+  {
+    "title": "¿Cómo uso la página Índice de conferencias?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-la-p%C3%A1gina-%C3%8Dndice-de-conferencias/ta-p/2222"
+  },
+  {
+    "title": "¿Cómo inicio una conferencia?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-inicio-una-conferencia/ta-p/2267"
+  },
+  {
+    "title": "¿Cómo copio un curso de Canvas a un nuevo contenedor de curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-copio-un-curso-de-Canvas-a-un-nuevo-contenedor-de-curso/ta-p/2177"
+  },
+  {
+    "title": "¿Cómo hago para copiar contenido de otro curso de Canvas usando la herramienta de importación del curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-hago-para-copiar-contenido-de-otro-curso-de-Canvas-usando/ta-p/2192"
+  },
+  {
+    "title": "¿Cómo exporto un curso de Canvas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-exporto-un-curso-de-Canvas/ta-p/2216"
+  },
+  {
+    "title": "¿Cómo importo un paquete de exportación de un curso de Canvas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-importo-un-paquete-de-exportaci%C3%B3n-de-un-curso-de-Canvas/ta-p/2294"
+  },
+  {
+    "title": "¿Cómo importo contenido de Common Cartridge en Canvas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-importo-contenido-de-Common-Cartridge-en-Canvas/ta-p/2328"
+  },
+  {
+    "title": "¿Cómo selecciono contenido específico como parte de una importación del curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-selecciono-contenido-espec%C3%ADfico-como-parte-de-una/ta-p/473012"
+  },
+  {
+    "title": "¿Cómo uso la Página de inicio del curso como instructor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-la-P%C3%A1gina-de-inicio-del-curso-como-instructor/ta-p/2322"
+  },
+  {
+    "title": "¿Qué opciones de diseño están disponibles en la Página de inicio del curso como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/Qu%C3%A9-opciones-de-dise%C3%B1o-est%C3%A1n-disponibles-en-la-P%C3%A1gina-de-inicio/ta-p/2327"
+  },
+  {
+    "title": "¿Cómo cambio la página principal del curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-cambio-la-p%C3%A1gina-principal-del-curso/ta-p/2323"
+  },
+  {
+    "title": "¿Cómo administro los enlaces de la Navegación del curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-administro-los-enlaces-de-la-Navegaci%C3%B3n-del-curso/ta-p/2315"
+  },
+  {
+    "title": "¿Cómo uso el Programa del curso como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-el-Programa-del-curso-como-profesor/ta-p/2255"
+  },
+  {
+    "title": "¿Cómo edito el programa del curso en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-edito-el-programa-del-curso-en-un-curso/ta-p/2235"
+  },
+  {
+    "title": "¿Cómo uso el menú Navegación del curso como instructor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-el-men%C3%BA-Navegaci%C3%B3n-del-curso-como-instructor/ta-p/2310"
+  },
+  {
+    "title": "¿Cómo uso la Lista de Configuraciones del Curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-la-Lista-de-Configuraciones-del-Curso/ta-p/2324"
+  },
+  {
+    "title": "¿Cómo creo un nuevo curso desde el Cuadro de mando como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-creo-un-nuevo-curso-desde-el-Cuadro-de-mando-como-profesor/ta-p/2201"
+  },
+  {
+    "title": "¿Cómo publico un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-publico-un-curso/ta-p/2285"
+  },
+  {
+    "title": "¿Cómo uso el tutorial de configuración del curso de Canvas como instructor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-el-tutorial-de-configuraci%C3%B3n-del-curso-de-Canvas-como/ta-p/2240"
+  },
+  {
+    "title": "¿Cómo agrego una sección a un curso como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-agrego-una-secci%C3%B3n-a-un-curso-como-profesor/ta-p/2281"
+  },
+  {
+    "title": "¿Cómo gestiono el contenido de un curso asociado con un curso de proyecto?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-gestiono-el-contenido-de-un-curso-asociado-con-un-curso-de/ta-p/2220"
+  },
+  {
+    "title": "¿Cómo bloqueo los objetos del curso en un curso de proyecto como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-bloqueo-los-objetos-del-curso-en-un-curso-de-proyecto-como/ta-p/2313"
+  },
+  {
+    "title": "¿Cómo sincronizo el contenido del curso en un curso de proyecto como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-sincronizo-el-contenido-del-curso-en-un-curso-de-proyecto/ta-p/2231"
+  },
+  {
+    "title": "¿Cómo veo el historial de sincronización de un curso de proyecto como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-veo-el-historial-de-sincronizaci%C3%B3n-de-un-curso-de-proyecto/ta-p/2238"
+  },
+  {
+    "title": "¿Cómo veo la información de sincronización del proyecto para un curso asociado con un curso de proyecto?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-veo-la-informaci%C3%B3n-de-sincronizaci%C3%B3n-del-proyecto-para-un/ta-p/2174"
+  },
+  {
+    "title": "¿Cómo creo una discusión como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-creo-una-discusi%C3%B3n-como-profesor/ta-p/2265"
+  },
+  {
+    "title": "¿Cómo creo una discusión de grupo en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-creo-una-discusi%C3%B3n-de-grupo-en-un-curso/ta-p/2262"
+  },
+  {
+    "title": "¿Cómo uso la página Índice de foros de discusión?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-la-p%C3%A1gina-%C3%8Dndice-de-foros-de-discusi%C3%B3n/ta-p/2305"
+  },
+  {
+    "title": "¿Cómo asigno un foro con calificación a un estudiante en particular?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-asigno-un-foro-con-calificaci%C3%B3n-a-un-estudiante-en/ta-p/2293"
+  },
+  {
+    "title": "¿Cómo creo un foro con revisión entre pares?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-creo-un-foro-con-revisi%C3%B3n-entre-pares/ta-p/2333"
+  },
+  {
+    "title": "¿Cómo respondo a un foro como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-respondo-a-un-foro-como-profesor/ta-p/2183"
+  },
+  {
+    "title": "¿Cómo puedo ver y ordenar respuestas del foro de discusión como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-puedo-ver-y-ordenar-respuestas-del-foro-de-discusi%C3%B3n-como/ta-p/560688"
+  },
+  {
+    "title": "¿Cómo creo un ePortfolio nuevo como instructor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-creo-un-ePortfolio-nuevo-como-instructor/ta-p/2312"
+  },
+  {
+    "title": "¿Cómo se usa el Centro de aplicaciones de Canvas en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-se-usa-el-Centro-de-aplicaciones-de-Canvas-en-un-curso/ta-p/2173"
+  },
+  {
+    "title": "¿Cómo agrego una aplicación externa a un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-agrego-una-aplicaci%C3%B3n-externa-a-un-curso/ta-p/2233"
+  },
+  {
+    "title": "¿Cómo puedo subir un archivo a Archivos?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-puedo-subir-un-archivo-a-un-curso/ta-p/2318"
+  },
+  {
+    "title": "¿Cómo puedo restringir archivos y carpetas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-puedo-restringir-archivos-y-carpetas-para-estudiantes-en/ta-p/2229"
+  },
+  {
+    "title": "¿Qué tipos de archivos de contenido multimedia puedo cargar en Canvas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/Qu%C3%A9-tipos-de-archivos-de-medios-puedo-cargar-en-Canvas-como/ta-p/2228"
+  },
+  {
+    "title": "¿Cómo uso Archivos?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-Archivos-como-instructor/ta-p/2219"
+  },
+  {
+    "title": "¿Qué tipos de archivos pueden previsualizarse en Canvas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/Qu%C3%A9-tipos-de-archivos-pueden-previsualizarse-en-Canvas/ta-p/2252"
+  },
+  {
+    "title": "¿Cómo inicio sesión en Canvas como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-inicio-sesi%C3%B3n-en-Canvas-como-profesor/ta-p/2297"
+  },
+  {
+    "title": "¿Cómo uso el Tablero como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-el-Tablero-como-profesor/ta-p/2190"
+  },
+  {
+    "title": "¿Cómo uso el menú de navegación global como instructor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-el-men%C3%BA-de-navegaci%C3%B3n-global-como-instructor/ta-p/2303"
+  },
+  {
+    "title": "¿Cómo hago para ver todos mis cursos de Canvas como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-hago-para-ver-todos-mis-cursos-de-Canvas-como-profesor/ta-p/2296"
+  },
+  {
+    "title": "¿Cómo puedo personalizar mi lista de cursos como instructor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-puedo-personalizar-mi-lista-de-cursos-como-instructor/ta-p/2204"
+  },
+  {
+    "title": "¿Cómo hago para ver mis cursos favoritos en la Vista de tarjeta del Tablero como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-hago-para-ver-mis-cursos-favoritos-en-la-Vista-de-tarjeta/ta-p/2217"
+  },
+  {
+    "title": "¿Cómo obtengo ayuda en Canvas como instructor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-obtengo-ayuda-en-Canvas-como-instructor/ta-p/2246"
+  },
+  {
+    "title": "¿Cómo uso la lista de tareas por hacer en el tablero como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-la-lista-de-tareas-por-hacer-en-el-tablero-como/ta-p/2239"
+  },
+  {
+    "title": "¿Cómo hago para ver la actividad global de todos mis cursos en la Vista de tarjeta del tablero como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-hago-para-ver-la-actividad-global-de-todos-mis-cursos-en-la/ta-p/2304"
+  },
+  {
+    "title": "¿Cómo hago para ver el Índice de cursos público de mi institución como instructor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-hago-para-ver-el-%C3%8Dndice-de-cursos-p%C3%BAblico-de-mi-instituci%C3%B3n/ta-p/2334"
+  },
+  {
+    "title": "¿Cómo veo mis grupos de instructor en Canvas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-veo-mis-grupos-de-instructor-en-Canvas/ta-p/2208"
+  },
+  {
+    "title": "¿Cómo hago para ver las calificaciones en la Vista de tarjeta del Tablero como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-hago-para-ver-las-calificaciones-en-la-Vista-de-tarjeta-del/ta-p/560689"
+  },
+  {
+    "title": "¿Cómo importo las calificaciones del Libro de calificaciones?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-importo-las-calificaciones-del-Libro-de-calificaciones/ta-p/2268"
+  },
+  {
+    "title": "¿Cómo aplico una política de Entregas con atraso en el Libro de calificaciones?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-aplico-una-pol%C3%ADtica-de-Entregas-con-atraso-en-el-Libro-de/ta-p/473035"
+  },
+  {
+    "title": "¿Cómo uso las políticas de publicación en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-las-pol%C3%ADticas-de-publicaci%C3%B3n-en-un-curso/ta-p/473027"
+  },
+  {
+    "title": "¿Cómo selecciono una política de publicación de calificaciones para un curso en el Libro de calificaciones?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-selecciono-una-pol%C3%ADtica-de-publicaci%C3%B3n-de-calificaciones/ta-p/473026"
+  },
+  {
+    "title": "¿Cómo publico las calificaciones de una tarea en el Libro de calificaciones?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-publico-las-calificaciones-de-una-tarea-en-el-Libro-de/ta-p/473019"
+  },
+  {
+    "title": "¿Cómo selecciono una política de publicación de calificaciones para una tarea en el Libro de calificaciones?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-selecciono-una-pol%C3%ADtica-de-publicaci%C3%B3n-de-calificaciones/ta-p/473009"
+  },
+  {
+    "title": "¿Cómo uso los períodos de calificación en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-los-per%C3%ADodos-de-calificaci%C3%B3n-en-un-curso/ta-p/473015"
+  },
+  {
+    "title": "¿Cómo uso la columna Total en el Libro de calificaciones?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-la-columna-Total-en-el-Libro-de-calificaciones/ta-p/473003"
+  },
+  {
+    "title": "¿Cómo creo columnas de tareas para las tareas sin entrega en el Libro de calificaciones?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-creo-columnas-de-tareas-para-las-tareas-sin-entrega-en-el/ta-p/473034"
+  },
+  {
+    "title": "¿Cómo descargo todas las entregas de los estudiantes para una tarea en el Libro de calificaciones?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-descargo-todas-las-entregas-de-los-estudiantes-para-una/ta-p/473029"
+  },
+  {
+    "title": "¿Cómo veo el historial de cambios de calificación en el Libro de calificaciones?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-veo-el-historial-de-cambios-de-calificaci%C3%B3n-en-el-Libro-de/ta-p/473038"
+  },
+  {
+    "title": "¿Cómo hago para ver tareas o estudiantes individualmente en el Libro de calificaciones?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-hago-para-ver-tareas-o-estudiantes-individualmente-en-el/ta-p/2197"
+  },
+  {
+    "title": "¿Cómo exporto las calificaciones del Libro de calificaciones?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-exporto-las-calificaciones-del-Libro-de-calificaciones/ta-p/2288"
+  },
+  {
+    "title": "¿Cómo utilizo el Libro de calificaciones?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-utilizo-el-Libro-de-calificaciones/ta-p/2170"
+  },
+  {
+    "title": "¿Cómo puedo ingresar y editar calificaciones en el Libro de Calificaciones?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-puedo-ingresar-y-editar-calificaciones-en-el-Libro-de/ta-p/2257"
+  },
+  {
+    "title": "¿Cómo uso los íconos y los colores en el Libro de calificaciones?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-los-%C3%ADconos-y-los-colores-en-el-Libro-de-calificaciones/ta-p/2242"
+  },
+  {
+    "title": "¿Cómo establezco una calificación predeterminada para una tarea en el Libro de calificaciones?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-establezco-una-calificaci%C3%B3n-predeterminada-para-una-tarea/ta-p/560693"
+  },
+  {
+    "title": "¿Cómo puedo ver todos los grupos en un curso como un instructor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-puedo-ver-todos-los-grupos-en-un-curso-como-un-instructor/ta-p/2270"
+  },
+  {
+    "title": "¿Cómo agrego un conjunto de grupos en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-agrego-un-conjunto-de-grupos-en-un-curso/ta-p/2260"
+  },
+  {
+    "title": "¿Cómo hago para ver el contenido y la actividad de los estudiantes dentro de un grupo como instructor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-hago-para-ver-el-contenido-y-la-actividad-de-los/ta-p/2291"
+  },
+  {
+    "title": "¿Cómo uso la Bandeja de entrada como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-la-Bandeja-de-entrada-como-profesor/ta-p/2306"
+  },
+  {
+    "title": "¿Cómo envío un mensaje a un usuario en un curso en el Buzón de entrada como un profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-env%C3%ADo-un-mensaje-a-un-usuario-en-un-curso-en-el-Buz%C3%B3n-de/ta-p/2302"
+  },
+  {
+    "title": "¿Cómo respondo un mensaje en la Bandeja de entrada como un profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-respondo-un-mensaje-en-la-Bandeja-de-entrada-como-un/ta-p/2250"
+  },
+  {
+    "title": "¿Cómo puedo enviar un mensaje a todos los usuarios del curso en la Bandeja de entrada como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-puedo-enviar-un-mensaje-a-todos-los-usuarios-del-curso-en/ta-p/473032"
+  },
+  {
+    "title": "¿Cómo agrego un módulo?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-agrego-un-m%C3%B3dulo/ta-p/2261"
+  },
+  {
+    "title": "¿Cómo agrego contenido al curso en forma de ítems del módulo?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-agrego-contenido-al-curso-en-forma-de-%C3%ADtems-del-m%C3%B3dulo/ta-p/2226"
+  },
+  {
+    "title": "¿Cómo uso la página Índice de módulos?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-la-p%C3%A1gina-%C3%8Dndice-de-m%C3%B3dulos/ta-p/2308"
+  },
+  {
+    "title": "¿Cómo agrego requisitos a un módulo?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-agrego-requisitos-a-un-m%C3%B3dulo/ta-p/473001"
+  },
+  {
+    "title": "¿Cómo publico o anulo la publicación de un módulo como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-publico-o-anulo-la-publicaci%C3%B3n-de-un-m%C3%B3dulo-como-profesor/ta-p/473037"
+  },
+  {
+    "title": "¿Cómo agrego prerrequisitos a un módulo?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-agrego-prerrequisitos-a-un-m%C3%B3dulo/ta-p/473028"
+  },
+  {
+    "title": "¿Cómo uso Mastery Paths en los módulos del curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-Mastery-Paths-en-los-m%C3%B3dulos-del-curso/ta-p/473020"
+  },
+  {
+    "title": "¿Cómo uso los módulos para ver el progreso de los estudiantes en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-los-m%C3%B3dulos-para-ver-el-progreso-de-los-estudiantes-en/ta-p/473033"
+  },
+  {
+    "title": "¿Cómo creo un resultado para un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-creo-un-resultado-para-un-curso/ta-p/2186"
+  },
+  {
+    "title": "¿Cómo creo grupos de resultados en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-creo-grupos-de-resultados-en-un-curso/ta-p/2187"
+  },
+  {
+    "title": "¿Cómo importo resultados en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-importo-resultados-en-un-curso/ta-p/2214"
+  },
+  {
+    "title": "¿Cómo busco un resultado existente para agregarlo a un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-busco-un-resultado-existente-para-agregarlo-a-un-curso/ta-p/2199"
+  },
+  {
+    "title": "¿Cómo uso la página de competencias en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-la-p%C3%A1gina-de-competencias-en-un-curso/ta-p/2272"
+  },
+  {
+    "title": "¿Cómo creo una página nueva en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-creo-una-p%C3%A1gina-nueva-en-un-curso/ta-p/2316"
+  },
+  {
+    "title": "¿Cómo establezco una Portada en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-establezco-una-Portada-en-un-curso/ta-p/2263"
+  },
+  {
+    "title": "¿Cómo uso la página Índice de páginas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-la-p%C3%A1gina-%C3%8Dndice-de-p%C3%A1ginas/ta-p/2223"
+  },
+  {
+    "title": "¿Cómo incrusto un video en una página en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-incrusto-un-video-en-una-p%C3%A1gina-en-un-curso/ta-p/473021"
+  },
+  {
+    "title": "¿Cómo vinculo a otras páginas de Canvas en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-vinculo-a-otras-p%C3%A1ginas-de-Canvas-en-un-curso/ta-p/473005"
+  },
+  {
+    "title": "¿Cómo envío una página a otro profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-env%C3%ADo-una-p%C3%A1gina-a-otro-profesor/ta-p/560695"
+  },
+  {
+    "title": "¿Cómo cambio el nombre de una página en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-cambio-el-nombre-de-una-p%C3%A1gina-en-un-curso/ta-p/560694"
+  },
+  {
+    "title": "¿Cómo elimino páginas en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-elimino-p%C3%A1ginas-en-un-curso/ta-p/560686"
+  },
+  {
+    "title": "¿Cómo veo el historial de una página en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-veo-el-historial-de-una-p%C3%A1gina-en-un-curso/ta-p/560685"
+  },
+  {
+    "title": "¿Cómo duplico una página en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-duplico-una-p%C3%A1gina-en-un-curso/ta-p/560687"
+  },
+  {
+    "title": "¿Cómo uso la página de Personas en un curso como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-la-p%C3%A1gina-de-Personas-en-un-curso-como-profesor/ta-p/2244"
+  },
+  {
+    "title": "¿Cómo agrego usuarios a un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-agrego-usuarios-a-un-curso/ta-p/2256"
+  },
+  {
+    "title": "¿Cómo puedo ver los detalles de usuario de una inscripción en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-puedo-ver-los-detalles-de-usuario-de-una-inscripci%C3%B3n-en-un/ta-p/2225"
+  },
+  {
+    "title": "¿Cómo genero un código de emparejamiento para un observador como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-genero-un-c%C3%B3digo-de-emparejamiento-para-un-observador-como/ta-p/2251"
+  },
+  {
+    "title": "¿Cómo edito los roles del usuario en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-edito-los-roles-del-usuario-en-un-curso/ta-p/560690"
+  },
+  {
+    "title": "¿Cómo agrego una imagen de perfil en mi cuenta de usuario como un instructor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-agrego-una-imagen-de-perfil-en-mi-cuenta-de-usuario-como-un/ta-p/2245"
+  },
+  {
+    "title": "¿Cómo edito mi perfil en mi cuenta de usuario como instructor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-edito-mi-perfil-en-mi-cuenta-de-usuario-como-instructor/ta-p/2247"
+  },
+  {
+    "title": "¿Cómo cambio la configuración en mi cuenta de usuario como un instructor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-cambio-la-configuraci%C3%B3n-en-mi-cuenta-de-usuario-como-un/ta-p/2311"
+  },
+  {
+    "title": "¿Cómo gestiono mis configuraciones de notificación de Canvas como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-gestiono-mis-configuraciones-de-notificaci%C3%B3n-de-Canvas-como/ta-p/2206"
+  },
+  {
+    "title": "¿Cómo agrego métodos de contacto para recibir notificaciones de Canvas como instructor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-agrego-m%C3%A9todos-de-contacto-para-recibir-notificaciones-de/ta-p/2175"
+  },
+  {
+    "title": "¿Cómo cambio el idioma preferido en mi cuenta de usuario como instructor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-cambio-el-idioma-preferido-en-mi-cuenta-de-usuario-como/ta-p/2178"
+  },
+  {
+    "title": "¿Cómo gestiono los autentificadores de acceso de la API como instructor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-gestiono-los-autentificadores-de-acceso-de-la-API-como/ta-p/2241"
+  },
+  {
+    "title": "¿Cómo administro nuevas opciones de funciones en mi cuenta de usuario como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-administro-nuevas-opciones-de-funciones-en-mi-cuenta-de/ta-p/2283"
+  },
+  {
+    "title": "¿Cómo veo un código QR para iniciar sesión en las aplicaciones móviles de Canvas como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-veo-un-c%C3%B3digo-QR-para-iniciar-sesi%C3%B3n-en-las-aplicaciones/ta-p/473010"
+  },
+  {
+    "title": "¿Qué tipos de evaluaciones puedo crear en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/Qu%C3%A9-tipos-de-evaluaciones-puedo-crear-en-un-curso/ta-p/2259"
+  },
+  {
+    "title": "¿Qué opciones puedo establecer en un examen?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/Qu%C3%A9-opciones-puedo-establecer-en-un-examen/ta-p/2234"
+  },
+  {
+    "title": "¿Cómo creo un examen con preguntas individuales?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-creo-un-examen-con-preguntas-individuales/ta-p/2258"
+  },
+  {
+    "title": "¿Cómo creo una evaluación con un grupo de preguntas vinculado a un banco de preguntas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-creo-una-evaluaci%C3%B3n-con-un-grupo-de-preguntas-vinculado-a/ta-p/2236"
+  },
+  {
+    "title": "¿Cómo creo un banco de preguntas en mi curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-creo-un-banco-de-preguntas-en-mi-curso/ta-p/2203"
+  },
+  {
+    "title": "¿Cómo importo las evaluaciones desde paquetes QTI?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-importo-las-evaluaciones-desde-paquetes-QTI/ta-p/2289"
+  },
+  {
+    "title": "¿Qué opciones puedo usar para recalificar una evaluación en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/Qu%C3%A9-opciones-puedo-usar-para-recalificar-una-evaluaci%C3%B3n-en-un/ta-p/2218"
+  },
+  {
+    "title": "Una vez que haya publicado mi evaluación ¿qué tipos de estadísticas de la evaluación están disponibles?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/Una-vez-que-haya-publicado-mi-evaluaci%C3%B3n-qu%C3%A9-tipos-de/ta-p/2287"
+  },
+  {
+    "title": "¿Cómo puedo crear una encuesta en mi curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-puedo-crear-una-encuesta-en-mi-curso/ta-p/2280"
+  },
+  {
+    "title": "¿Cómo uso la página Índice de exámenes?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-la-p%C3%A1gina-%C3%8Dndice-de-ex%C3%A1menes/ta-p/2278"
+  },
+  {
+    "title": "¿Cómo creo una evaluación con un grupo de preguntas para distribuir las preguntas de la evaluación de forma aleatoria?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-creo-una-evaluaci%C3%B3n-con-un-grupo-de-preguntas-para/ta-p/2180"
+  },
+  {
+    "title": "¿Cómo creo una evaluación buscando preguntas en un banco de preguntas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-creo-una-evaluaci%C3%B3n-buscando-preguntas-en-un-banco-de/ta-p/2176"
+  },
+  {
+    "title": "Una vez que publico la evaluación, ¿cómo uso la página Moderar evaluación?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/Una-vez-que-publico-la-evaluaci%C3%B3n-c%C3%B3mo-uso-la-p%C3%A1gina-Moderar/ta-p/2168"
+  },
+  {
+    "title": "Una vez que se publique una evaluación cronometrada, ¿cómo puedo dar tiempo extra a mis estudiantes?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/Una-vez-que-se-publique-una-evaluaci%C3%B3n-cronometrada-c%C3%B3mo-puedo/ta-p/473006"
+  },
+  {
+    "title": "Una vez que publique una evaluación ¿cómo puedo darle a mis estudiantes intentos extras?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/Una-vez-que-publique-una-evaluaci%C3%B3n-c%C3%B3mo-puedo-darle-a-mis/ta-p/473023"
+  },
+  {
+    "title": "¿Cómo importo un banco de preguntas de un curso de Canvas a otro?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-importo-un-banco-de-preguntas-de-un-curso-de-Canvas-a-otro/ta-p/473014"
+  },
+  {
+    "title": "¿Cómo elimino de favoritos un banco de preguntas en mi curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-elimino-de-favoritos-un-banco-de-preguntas-en-mi-curso/ta-p/560692"
+  },
+  {
+    "title": "¿Cómo creo un examen mediante Nuevos exámenes (New Quizzes)?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-creo-un-examen-mediante-Nuevos-ex%C3%A1menes-New-Quizzes/ta-p/2207"
+  },
+  {
+    "title": "¿Cómo administro las configuraciones de un examen en Nuevos exámenes (New Quizzes)?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-administro-las-configuraciones-de-un-examen-en-Nuevos/ta-p/2209"
+  },
+  {
+    "title": "¿Cómo califico un examen en Nuevos Exámenes (New Quizzes)?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-califico-un-examen-en-Nuevos-Ex%C3%A1menes-New-Quizzes/ta-p/2271"
+  },
+  {
+    "title": "¿Cómo migro una evaluación de Canvas a Nuevos exámenes (New Quizzes)?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-migro-una-evaluaci%C3%B3n-de-Canvas-a-Nuevos-ex%C3%A1menes-New/ta-p/473002"
+  },
+  {
+    "title": "¿Cómo vuelvo a calificar una pregunta de examen en Nuevos Exámenes (New Quizzes)?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-vuelvo-a-calificar-una-pregunta-de-examen-en-Nuevos/ta-p/473030"
+  },
+  {
+    "title": "¿Cómo veo reportes para un examen en Nuevos exámenes (New Quizzes)?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-veo-reportes-para-un-examen-en-Nuevos-ex%C3%A1menes-New-Quizzes/ta-p/473031"
+  },
+  {
+    "title": "¿Cómo modero el intento de examen de un estudiante en Nuevos exámenes (New Quizzes)?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-modero-el-intento-de-examen-de-un-estudiante-en-Nuevos/ta-p/473041"
+  },
+  {
+    "title": "¿Cómo creo un banco de ítems en Nuevos exámenes (New Quizzes)?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-creo-un-banco-de-%C3%ADtems-en-Nuevos-ex%C3%A1menes-New-Quizzes/ta-p/473039"
+  },
+  {
+    "title": "¿Cómo creo una pregunta de fórmula en Nuevas evaluaciones (New Quizzes)?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-creo-una-pregunta-de-f%C3%B3rmula-en-Nuevas-evaluaciones-New/ta-p/473040"
+  },
+  {
+    "title": "¿Cómo agrego adaptaciones para un estudiante en Nuevos exámenes (New Quizzes)?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-agrego-adaptaciones-para-un-estudiante-en-Nuevos-ex%C3%A1menes/ta-p/478481"
+  },
+  {
+    "title": "¿Cómo inserto contenido del estímulo en Nuevos exámenes (New Quizzes)?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-inserto-contenido-del-est%C3%ADmulo-en-Nuevos-ex%C3%A1menes-New/ta-p/478480"
+  },
+  {
+    "title": "¿Cómo administro los bancos de ítems en Nuevos exámenes (New Quizzes)?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-administro-los-bancos-de-%C3%ADtems-en-Nuevos-ex%C3%A1menes-New/ta-p/478482"
+  },
+  {
+    "title": "¿Cómo importo preguntas desde un paquete de QTI a un banco de ítems en Nuevos exámenes?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-importo-preguntas-desde-un-paquete-de-QTI-a-un-banco-de/ta-p/478484"
+  },
+  {
+    "title": "¿Cómo agrego contenido a un banco de ítems en Nuevos exámenes?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-agrego-contenido-a-un-banco-de-%C3%ADtems-en-Nuevos-ex%C3%A1menes/ta-p/478483"
+  },
+  {
+    "title": "¿Cómo alineo una competencia con una pregunta de examen en Nuevos exámenes?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-alineo-una-competencia-con-una-pregunta-de-examen-en-Nuevos/ta-p/478486"
+  },
+  {
+    "title": "¿Cómo puedo impedir que los estudiantes vean los resultados de un examen en Nuevos exámenes (New Quizzes)?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-puedo-impedir-que-los-estudiantes-vean-los-resultados-de-un/ta-p/478485"
+  },
+  {
+    "title": "¿Cómo uso la página de Moderación (Moderation) en Nuevos exámenes?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-la-p%C3%A1gina-de-Moderaci%C3%B3n-Moderation-en-Nuevos-ex%C3%A1menes/ta-p/478487"
+  },
+  {
+    "title": "¿Cómo comparto un banco de ítems en Nuevos exámenes?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-comparto-un-banco-de-%C3%ADtems-en-Nuevos-ex%C3%A1menes/ta-p/478472"
+  },
+  {
+    "title": "¿Cómo uso el Editor de contenido enriquecido en Nuevos exámenes?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-el-Editor-de-contenido-enriquecido-en-Nuevos-ex%C3%A1menes/ta-p/478474"
+  },
+  {
+    "title": "¿Cómo creo una pregunta numérica en Nuevos exámenes (New Quizzes)?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-creo-una-pregunta-num%C3%A9rica-en-Nuevos-ex%C3%A1menes-New-Quizzes/ta-p/478473"
+  },
+  {
+    "title": "¿Cómo importo un examen de un paquete de QTI a Nuevos exámenes?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-importo-un-examen-de-un-paquete-de-QTI-a-Nuevos-ex%C3%A1menes/ta-p/478476"
+  },
+  {
+    "title": "¿Cómo agrego un ítem de un banco de ítems a un examen en Nuevos exámenes?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-agrego-un-%C3%ADtem-de-un-banco-de-%C3%ADtems-a-un-examen-en-Nuevos/ta-p/478475"
+  },
+  {
+    "title": "¿Cómo alineo una competencia con un examen en Nuevos exámenes?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-alineo-una-competencia-con-un-examen-en-Nuevos-ex%C3%A1menes/ta-p/478478"
+  },
+  {
+    "title": "¿Cómo edito un ítem de un banco de ítems en Nuevos exámenes?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-edito-un-%C3%ADtem-de-un-banco-de-%C3%ADtems-en-Nuevos-ex%C3%A1menes/ta-p/478479"
+  },
+  {
+    "title": "¿Cómo agrego una rúbrica en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-agrego-una-r%C3%BAbrica-en-un-curso/ta-p/2276"
+  },
+  {
+    "title": "¿Cómo agrego una rúbrica a una tarea?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-agrego-una-r%C3%BAbrica-a-una-tarea/ta-p/2274"
+  },
+  {
+    "title": "¿Cómo administro las rúbricas en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-administro-las-r%C3%BAbricas-en-un-curso/ta-p/2213"
+  },
+  {
+    "title": "¿Cómo grabo contenido multimedia con el Editor de contenido enriquecido como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-grabo-contenido-multimedia-con-el-Editor-de-contenido/ta-p/2299"
+  },
+  {
+    "title": "¿Cómo agrego y modifico texto en el Editor de contenido enriquecido como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-agrego-y-modifico-texto-en-el-Editor-de-contenido/ta-p/2307"
+  },
+  {
+    "title": "¿Cómo cargo e inserto una imagen en el Editor de contenido enriquecido como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-cargo-e-inserto-una-imagen-en-el-Editor-de-contenido/ta-p/2191"
+  },
+  {
+    "title": "¿Cómo puedo crear hipervínculos al contenido del curso o grupo en el Editor de contenido enriquecido como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-puedo-crear-hiperv%C3%ADnculos-al-contenido-del-curso-o-grupo-en/ta-p/445191"
+  },
+  {
+    "title": "¿Cómo hago para crear hipervínculos a los archivos del curso, grupo y usuario en el Editor de contenido enriquecido como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-hago-para-crear-hiperv%C3%ADnculos-a-los-archivos-del-curso/ta-p/445189"
+  },
+  {
+    "title": "¿Cómo cargo un documento con el Editor de Contenido Enriquecido como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-cargo-un-documento-con-el-Editor-de-Contenido-Enriquecido/ta-p/445193"
+  },
+  {
+    "title": "¿Cómo incrusto contenido multimedia desde una fuente externa en el Editor de contenido enriquecido como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-incrusto-contenido-multimedia-desde-una-fuente-externa-en/ta-p/445197"
+  },
+  {
+    "title": "¿Cómo uso la barra de menú en el Editor de contenido enriquecido como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-la-barra-de-men%C3%BA-en-el-Editor-de-contenido-enriquecido/ta-p/445195"
+  },
+  {
+    "title": "¿Cómo accedo al Editor de contenido enriquecido como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-accedo-al-Editor-de-contenido-enriquecido-como-profesor/ta-p/445199"
+  },
+  {
+    "title": "¿Cómo hago para seleccionar contenido de una aplicación externa en el Editor de contenido enriquecido como profesor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-hago-para-seleccionar-contenido-de-una-aplicaci%C3%B3n-externa/ta-p/445198"
+  },
+  {
+    "title": "¿Cómo puedo cambiar las fechas de inicio y término de mi curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-puedo-cambiar-las-fechas-de-inicio-y-t%C3%A9rmino-de-mi-curso/ta-p/2300"
+  },
+  {
+    "title": "¿Cómo uso los esquemas de calificaciones en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-los-esquemas-de-calificaciones-en-un-curso/ta-p/2275"
+  },
+  {
+    "title": "¿Cómo veo un curso como estudiante de prueba utilizando la Vista de estudiantes?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-veo-un-curso-como-estudiante-de-prueba-utilizando-la-Vista/ta-p/2189"
+  },
+  {
+    "title": "¿Cómo administro las opciones de funciones de un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-administro-las-opciones-de-funciones-de-un-curso/ta-p/2314"
+  },
+  {
+    "title": "¿Cómo accedo al entorno beta de Canvas como instructor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-accedo-al-entorno-beta-de-Canvas-como-instructor/ta-p/2200"
+  },
+  {
+    "title": "¿Cómo uso las configuraciones del curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-las-configuraciones-del-curso/ta-p/2279"
+  },
+  {
+    "title": "¿Cómo configuro los detalles de un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-configuro-los-detalles-de-un-curso/ta-p/2269"
+  },
+  {
+    "title": "¿Cómo cambio la preferencia de idioma para un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-cambio-la-preferencia-de-idioma-para-un-curso/ta-p/2248"
+  },
+  {
+    "title": "¿Cómo incluyo un curso en el Índice público de cursos?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-incluyo-un-curso-en-el-%C3%8Dndice-p%C3%BAblico-de-cursos/ta-p/2325"
+  },
+  {
+    "title": "¿Cómo agrego una imagen a una tarjeta del curso en el Tablero?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-agrego-una-imagen-a-una-tarjeta-del-curso-en-el-Tablero/ta-p/473000"
+  },
+  {
+    "title": "¿Cómo valido enlaces en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-valido-enlaces-en-un-curso/ta-p/473008"
+  },
+  {
+    "title": "¿Cómo restablezco el contenido del curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-restablezco-el-contenido-del-curso/ta-p/473004"
+  },
+  {
+    "title": "¿Cómo uso SpeedGrader?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-SpeedGrader/ta-p/2181"
+  },
+  {
+    "title": "¿Cómo proporciono comentarios de retroalimentación para las entregas de mis estudiantes en SpeedGrader?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-proporciono-comentarios-de-retroalimentaci%C3%B3n-para-las/ta-p/2169"
+  },
+  {
+    "title": "¿Cómo uso una rúbrica para calificar presentaciones en SpeedGrader?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-uso-una-r%C3%BAbrica-para-calificar-presentaciones-en/ta-p/2331"
+  },
+  {
+    "title": "¿Cómo agrego comentarios anotados en las presentaciones de los estudiantes usando DocViewer en SpeedGrader?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-agrego-comentarios-anotados-en-las-presentaciones-de-los/ta-p/2167"
+  },
+  {
+    "title": "¿Cómo veo los detalles de la entrega de un estudiante en SpeedGrader?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-veo-los-detalles-de-la-entrega-de-un-estudiante-en/ta-p/473011"
+  },
+  {
+    "title": "¿Cómo califico las preguntas del examen de Nuevos exámenes (New Quizzes) de a una por vez en SpeedGrader?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-califico-las-preguntas-del-examen-de-Nuevos-ex%C3%A1menes-New/ta-p/568917"
+  },
+  {
+    "title": "¿Cómo me conecto a servicios web que están fuera de Canvas como instructor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-me-conecto-a-servicios-web-que-est%C3%A1n-fuera-de-Canvas-como/ta-p/2205"
+  },
+  {
+    "title": "¿Cómo me conecto a Google Drive como un servicio web en Canvas como instructor?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-del-Instructor/C%C3%B3mo-me-conecto-a-Google-Drive-como-un-servicio-web-en-Canvas/ta-p/575140"
+  }
+]
+

@@ -1,0 +1,647 @@
+[
+  {
+    "title": "¿Cómo agrego un administrador a una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-agrego-un-administrador-a-una-cuenta/ta-p/2137"
+  },
+  {
+    "title": "¿Cómo puedo subir archivos JavaScript y CSS personalizados a una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-puedo-subir-archivos-JavaScript-y-CSS-personalizados-a-una/ta-p/2127"
+  },
+  {
+    "title": "¿Cómo creo un tema para una cuenta usando el Editor de Temas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-creo-un-tema-para-una-cuenta-usando-el-Editor-de-Temas/ta-p/2149"
+  },
+  {
+    "title": "¿Cómo es la estructura jerárquica de las cuentas de Canvas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-es-la-estructura-jer%C3%A1rquica-de-las-cuentas-de-Canvas/ta-p/2160"
+  },
+  {
+    "title": "¿Cómo administro los temas en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-administro-los-temas-en-una-cuenta/ta-p/2128"
+  },
+  {
+    "title": "¿Cómo veo y administro una subcuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-veo-y-administro-una-subcuenta/ta-p/472975"
+  },
+  {
+    "title": "¿Cómo puedo crear una subcuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-puedo-crear-una-subcuenta/ta-p/472921"
+  },
+  {
+    "title": "¿Qué opciones se pueden personalizar para los administradores de campo en la Consola de administrador de campo?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/Qu%C3%A9-opciones-se-pueden-personalizar-para-los-administradores-de/ta-p/472987"
+  },
+  {
+    "title": "¿Cómo restauro un curso eliminado en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-restauro-un-curso-eliminado-en-una-cuenta/ta-p/476731"
+  },
+  {
+    "title": "¿Cómo veo la actividad de inicio y cierre de sesión para un usuario en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-veo-la-actividad-de-inicio-y-cierre-de-sesi%C3%B3n-para-un/ta-p/476739"
+  },
+  {
+    "title": "¿Cómo hago para ver la actividad del curso para una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-hago-para-ver-la-actividad-del-curso-para-una-cuenta/ta-p/476716"
+  },
+  {
+    "title": "¿Cómo veo qué notificaciones se han enviado a un usuario en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-veo-qu%C3%A9-notificaciones-se-han-enviado-a-un-usuario-en-una/ta-p/476719"
+  },
+  {
+    "title": "¿Cómo hago para ver la actividad de cambio de calificaciones para una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-hago-para-ver-la-actividad-de-cambio-de-calificaciones-para/ta-p/476708"
+  },
+  {
+    "title": "¿Cómo veo las notificaciones de correos electrónicos rechazados para usuarios en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-veo-las-notificaciones-de-correos-electr%C3%B3nicos-rechazados/ta-p/476740"
+  },
+  {
+    "title": "¿Cómo veo analíticas de la cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-veo-anal%C3%ADticas-de-la-cuenta/ta-p/2123"
+  },
+  {
+    "title": "¿Cómo hago para ver estadísticas para una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-hago-para-ver-estad%C3%ADsticas-para-una-cuenta/ta-p/472915"
+  },
+  {
+    "title": "¿Cómo administro los autentificadores de acceso de la API como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-administro-los-autentificadores-de-acceso-de-la-API-como/ta-p/476727"
+  },
+  {
+    "title": "¿Cómo hacer llamadas de API en una cuenta con un autentificador de acceso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-hacer-llamadas-de-API-en-una-cuenta-con-un-autentificador/ta-p/476698"
+  },
+  {
+    "title": "¿Cómo ejecuto reportes de Toma de asistencia para una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-ejecuto-reportes-de-Toma-de-asistencia-para-una-cuenta/ta-p/476700"
+  },
+  {
+    "title": "¿Cómo agrego distintivos de Toma de asistencia a una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-agrego-distintivos-de-Toma-de-asistencia-a-una-cuenta/ta-p/476704"
+  },
+  {
+    "title": "¿Cómo configuro proveedores externos de autentificación para una cuenta de Canvas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-configuro-proveedores-externos-de-autentificaci%C3%B3n-para-una/ta-p/2124"
+  },
+  {
+    "title": "¿Cómo configuro los detalles de autenticación de Canvas para una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-configuro-el-autoregistro-por-medio-de-la-autenticaci%C3%B3n-de/ta-p/2164"
+  },
+  {
+    "title": "¿Cómo configuro el SSO para mi proveedor de autenticación? ",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-configuro-el-SSO-para-mi-proveedor-de-autenticaci%C3%B3n/ta-p/2140"
+  },
+  {
+    "title": "¿Cómo instalo en mi cuenta los Servicios de datos de Canvas utilizando los Eventos en vivo?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-instalo-en-mi-cuenta-los-Servicios-de-datos-de-Canvas/ta-p/476712"
+  },
+  {
+    "title": "¿Cómo me suscribo a los Eventos en vivo usando los servicios de datos de Canvas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-me-suscribo-a-los-Eventos-en-vivo-usando-los-servicios-de/ta-p/476691"
+  },
+  {
+    "title": "¿Cómo uso los Eventos en vivo con el Portal de servicios de datos?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-uso-los-Eventos-en-vivo-con-el-Portal-de-servicios-de-datos/ta-p/476715"
+  },
+  {
+    "title": "¿Cómo creo una fila SQS en los Servicios web de Amazon para recibir los datos de Eventos en vivo desde Canvas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-creo-una-fila-SQS-en-los-Servicios-web-de-Amazon-para/ta-p/476723"
+  },
+  {
+    "title": "¿Cómo configuro y pruebo los Eventos en vivo de Canvas usando la entrega HTTPS?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-configuro-y-pruebo-los-Eventos-en-vivo-de-Canvas-usando-la/ta-p/476710"
+  },
+  {
+    "title": "¿Cómo elimino un curso de una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-elimino-un-curso-de-una-cuenta/ta-p/2111"
+  },
+  {
+    "title": "¿Cómo combino listas de una sección en un curso como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-combino-listas-de-una-secci%C3%B3n-en-un-curso-como/ta-p/2162"
+  },
+  {
+    "title": "¿Cómo uso la página de Cursos en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-uso-la-p%C3%A1gina-de-Cursos-en-una-cuenta/ta-p/2121"
+  },
+  {
+    "title": "¿Cómo activo un curso como un curso de proyecto como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-activo-un-curso-como-un-curso-de-proyecto-como/ta-p/2151"
+  },
+  {
+    "title": "¿Cómo asocio un curso con un curso de proyecto como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-asocio-un-curso-con-un-curso-de-proyecto-como-administrador/ta-p/2114"
+  },
+  {
+    "title": "¿Cómo bloqueo los objetos del curso en un curso de proyecto como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-bloqueo-los-objetos-del-curso-en-un-curso-de-proyecto-como/ta-p/2152"
+  },
+  {
+    "title": "¿Cómo sincronizo el contenido del curso en un curso de proyecto como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-sincronizo-el-contenido-del-curso-en-un-curso-de-proyecto/ta-p/2161"
+  },
+  {
+    "title": "¿Cómo veo el historial de sincronización de un curso de proyecto como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-veo-el-historial-de-sincronizaci%C3%B3n-de-un-curso-de-proyecto/ta-p/2120"
+  },
+  {
+    "title": "¿Cómo deshago la lista cruzada de una sección en un curso como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-deshago-la-lista-cruzada-de-una-secci%C3%B3n-en-un-curso-como/ta-p/472980"
+  },
+  {
+    "title": "¿Cómo agrego un curso en una cuenta como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-agrego-un-curso-en-una-cuenta-como-administrador/ta-p/472991"
+  },
+  {
+    "title": "¿Cómo hago una lista cruzada en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-hago-una-lista-cruzada-en-una-cuenta/ta-p/472952"
+  },
+  {
+    "title": "¿Cómo revierto la finalización de un curso en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-revierto-la-finalizaci%C3%B3n-de-un-curso-en-una-cuenta/ta-p/472993"
+  },
+  {
+    "title": "¿Cómo elimino un curso en una cuenta como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-elimino-un-curso-en-una-cuenta-como-administrador/ta-p/472959"
+  },
+  {
+    "title": "¿Cómo agrego una sección a un curso como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-agrego-una-secci%C3%B3n-a-un-curso-como-administrador/ta-p/472928"
+  },
+  {
+    "title": "¿Cómo concluyo un curso al final de un período como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-concluyo-un-curso-al-final-de-un-per%C3%ADodo-como-administrador/ta-p/472919"
+  },
+  {
+    "title": "¿Cómo puedo cambiar las fechas de inicio y finalización para una sección de curso como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-puedo-cambiar-las-fechas-de-inicio-y-finalizaci%C3%B3n-para-una/ta-p/472978"
+  },
+  {
+    "title": "¿Cómo puedo eliminar un envío de tarea de carga de archivos como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-puedo-eliminar-un-env%C3%ADo-de-tarea-de-carga-de-archivos-como/ta-p/472954"
+  },
+  {
+    "title": "¿Cómo se usa el Centro de aplicaciones de Canvas en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-se-usa-el-Centro-de-aplicaciones-de-Canvas-en-una-cuenta/ta-p/2163"
+  },
+  {
+    "title": "¿Cómo administro una lista de permitidos en Edu App Center?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-administro-una-lista-de-permitidos-en-Edu-App-Center/ta-p/2126"
+  },
+  {
+    "title": "¿Cómo vinculo una lista de permitidos de Edu App Center a Canvas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-vinculo-una-lista-de-permitidos-de-Edu-App-Center-a-Canvas/ta-p/2112"
+  },
+  {
+    "title": "¿Cómo configuro una clave LTI para una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-configuro-una-clave-LTI-para-una-cuenta/ta-p/472995"
+  },
+  {
+    "title": "¿De qué manera configuro una aplicación externa para una cuenta mediante el uso de una identificación del cliente?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/De-qu%C3%A9-manera-configuro-una-aplicaci%C3%B3n-externa-para-una-cuenta/ta-p/472982"
+  },
+  {
+    "title": "¿De qué manera configuro una aplicación externa para una cuenta mediante el uso de una URL?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/De-qu%C3%A9-manera-configuro-una-aplicaci%C3%B3n-externa-para-una-cuenta/ta-p/472958"
+  },
+  {
+    "title": "¿Cómo agrego una herramienta externa a la barra de herramientas del Editor de contenido enriquecido en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-agrego-una-herramienta-externa-a-la-barra-de-herramientas/ta-p/472962"
+  },
+  {
+    "title": "¿De qué manera configuro una aplicación externa para una cuenta mediante el uso de una URL de registro LTI 2?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/De-qu%C3%A9-manera-configuro-una-aplicaci%C3%B3n-externa-para-una-cuenta/ta-p/472932"
+  },
+  {
+    "title": "¿De qué manera configuro una aplicación externa para una cuenta mediante el uso de XML?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/De-qu%C3%A9-manera-configuro-una-aplicaci%C3%B3n-externa-para-una-cuenta/ta-p/472942"
+  },
+  {
+    "title": "¿Cómo configuro una aplicación externa de entrada manual para una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-configuro-una-aplicaci%C3%B3n-externa-de-entrada-manual-para-una/ta-p/472997"
+  },
+  {
+    "title": "¿Cómo administro las ubicaciones de la aplicación externa para una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-administro-las-ubicaciones-de-la-aplicaci%C3%B3n-externa-para/ta-p/472927"
+  },
+  {
+    "title": "¿Cómo uso el menú de Navegación global como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-uso-el-men%C3%BA-de-Navegaci%C3%B3n-global-como-administrador/ta-p/2132"
+  },
+  {
+    "title": "¿Cómo uso el Portal de servicios de capacitación como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-uso-el-Portal-de-servicios-de-capacitaci%C3%B3n-como/ta-p/472934"
+  },
+  {
+    "title": "¿Cómo obtengo ayuda en Canvas como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-obtengo-ayuda-en-Canvas-como-administrador/ta-p/472988"
+  },
+  {
+    "title": "¿Cómo hago para ver el Índice público del curso de mi institución como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-hago-para-ver-el-%C3%8Dndice-p%C3%BAblico-del-curso-de-mi-instituci%C3%B3n/ta-p/472937"
+  },
+  {
+    "title": "¿Cómo veo mi historial reciente de visualizaciones de páginas en Canvas como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-veo-mi-historial-reciente-de-visualizaciones-de-p%C3%A1ginas-en/ta-p/472947"
+  },
+  {
+    "title": "¿Cómo uso el recorrido de bienvenida de Canvas como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-uso-el-recorrido-de-bienvenida-de-Canvas-como-administrador/ta-p/472955"
+  },
+  {
+    "title": "¿Cómo inicio sesión en la Consola de administrador en la nube de campo?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-inicio-sesi%C3%B3n-en-la-Consola-de-administrador-en-la-nube-de/ta-p/476729"
+  },
+  {
+    "title": "¿Cómo uso la Consola de administrador de campo?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-uso-la-Consola-de-administrador-de-campo/ta-p/476725"
+  },
+  {
+    "title": "¿Cómo veo mi KB del cliente en la Consola de administrador de campo?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-veo-mi-KB-del-cliente-en-la-Consola-de-administrador-de/ta-p/476718"
+  },
+  {
+    "title": "¿Cómo administro un caso individual en la Consola de administrador de campo?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-administro-un-caso-individual-en-la-Consola-de/ta-p/476707"
+  },
+  {
+    "title": "¿Cómo hago para ver mis casos de soporte en el portal de soporte de Instructure? ",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-hago-para-ver-mis-casos-de-soporte-en-el-portal-de-soporte/ta-p/476722"
+  },
+  {
+    "title": "¿Cómo derivo un caso al equipo de soporte técnico de Canvas en la Consola de administrador de campo?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-derivo-un-caso-al-equipo-de-soporte-t%C3%A9cnico-de-Canvas-en-la/ta-p/476695"
+  },
+  {
+    "title": "¿Cuáles son los distintos roles del caso en la Consola de administrador de campo?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/Cu%C3%A1les-son-los-distintos-roles-del-caso-en-la-Consola-de/ta-p/476705"
+  },
+  {
+    "title": "¿Cómo manejo las solicitudes de actualización de la KB en la Consola de administrador de campo?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-manejo-las-solicitudes-de-actualizaci%C3%B3n-de-la-KB-en-la/ta-p/476706"
+  },
+  {
+    "title": "¿Cómo creo un macro en la Consola de administrador de campo?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-creo-un-macro-en-la-Consola-de-administrador-de-campo/ta-p/476717"
+  },
+  {
+    "title": "¿Cómo creo un caso en la Consola de administrador de campo?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-creo-un-caso-en-la-Consola-de-administrador-de-campo/ta-p/476724"
+  },
+  {
+    "title": "¿Cómo hago para ver y administrar los esquemas de calificaciones en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-hago-para-ver-y-administrar-los-esquemas-de-calificaciones/ta-p/2153"
+  },
+  {
+    "title": "¿Cómo hago para ver los períodos de calificación en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-hago-para-ver-los-per%C3%ADodos-de-calificaci%C3%B3n-en-una-cuenta/ta-p/2117"
+  },
+  {
+    "title": "¿Cómo hago para agregar períodos de calificación en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-hago-para-agregar-per%C3%ADodos-de-calificaci%C3%B3n-en-una-cuenta/ta-p/472951"
+  },
+  {
+    "title": "¿Cómo agrego un esquema de calificación en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-agrego-un-esquema-de-calificaci%C3%B3n-en-una-cuenta/ta-p/472992"
+  },
+  {
+    "title": "¿Cómo administro claves del desarrollador en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-administro-claves-del-desarrollador-en-una-cuenta/ta-p/2147"
+  },
+  {
+    "title": "¿Cómo agrego una clave de API de desarrollador para una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-agrego-una-clave-de-API-de-desarrollador-para-una-cuenta/ta-p/472950"
+  },
+  {
+    "title": "¿Cómo habilito Slack para una cuenta? ",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-habilito-Slack-para-una-cuenta/ta-p/472960"
+  },
+  {
+    "title": "¿Cómo habilito el alcance para una clave de API de desarrollador en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-habilito-el-alcance-para-una-clave-de-API-de-desarrollador/ta-p/472964"
+  },
+  {
+    "title": "¿Cómo habilito Equella para una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-habilito-Equella-para-una-cuenta/ta-p/472920"
+  },
+  {
+    "title": "¿Cómo creo un resultado para una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-creo-un-resultado-para-una-cuenta/ta-p/2134"
+  },
+  {
+    "title": "¿Cómo creo grupos de resultados en una cuenta? ",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-creo-grupos-de-resultados-en-una-cuenta/ta-p/2125"
+  },
+  {
+    "title": "¿Cómo importo resultados en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-importo-resultados-en-una-cuenta/ta-p/2141"
+  },
+  {
+    "title": "¿Cómo busco un resultado existente para agregarlo a una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-busco-un-resultado-existente-para-agregarlo-a-una-cuenta/ta-p/2157"
+  },
+  {
+    "title": "¿Cómo uso la página de competencias en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-uso-la-p%C3%A1gina-de-competencias-en-una-cuenta/ta-p/2159"
+  },
+  {
+    "title": "¿Cómo busco estándares de aprendizaje para agregar a una competencia a nivel de la cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-busco-est%C3%A1ndares-de-aprendizaje-para-agregar-a-una/ta-p/472968"
+  },
+  {
+    "title": "¿Cómo edito o elimino una competencia en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-edito-o-elimino-una-competencia-en-una-cuenta/ta-p/472918"
+  },
+  {
+    "title": "¿Cómo veo el reporte de resultados de competencias para un estudiante individual en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-veo-el-reporte-de-resultados-de-competencias-para-un/ta-p/472940"
+  },
+  {
+    "title": "¿Cómo edito o elimino un grupo de competencias en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-edito-o-elimino-un-grupo-de-competencias-en-una-cuenta/ta-p/472938"
+  },
+  {
+    "title": "¿Cómo muevo competencias y grupos de competencias en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-muevo-competencias-y-grupos-de-competencias-en-una-cuenta/ta-p/472965"
+  },
+  {
+    "title": "¿Cómo creo nombres de competencia personalizados de cuenta para los estudiantes?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-creo-nombres-de-competencia-personalizados-de-cuenta-para/ta-p/472967"
+  },
+  {
+    "title": "¿Cómo puedo administrar las escalas de dominio de competencias en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-puedo-administrar-las-escalas-de-dominio-de-competencias-en/ta-p/472979"
+  },
+  {
+    "title": "¿Cómo puedo administrar los cálculos de dominio de competencias en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-puedo-administrar-los-c%C3%A1lculos-de-dominio-de-competencias/ta-p/472923"
+  },
+  {
+    "title": "¿Cómo uso la página Personas en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-uso-la-p%C3%A1gina-Personas-en-una-cuenta/ta-p/2145"
+  },
+  {
+    "title": "¿Cómo actúo en nombre de otro usuario en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-act%C3%BAo-en-nombre-de-otro-usuario-en-una-cuenta/ta-p/2133"
+  },
+  {
+    "title": "¿Cómo hago para ver los grupos en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-hago-para-ver-los-grupos-en-una-cuenta/ta-p/2116"
+  },
+  {
+    "title": "¿Cómo veo las visualizaciones de la página para un usuario en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-veo-las-visualizaciones-de-la-p%C3%A1gina-para-un-usuario-en-una/ta-p/472956"
+  },
+  {
+    "title": "¿Cómo elimino a un usuario de una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-elimino-a-un-usuario-de-una-cuenta/ta-p/472996"
+  },
+  {
+    "title": "¿Cómo creo y agrego usuarios a una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-creo-y-agrego-usuarios-a-una-cuenta/ta-p/472994"
+  },
+  {
+    "title": "¿Cómo administro la información del inicio de sesión de un usuario en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-administro-la-informaci%C3%B3n-del-inicio-de-sesi%C3%B3n-de-un/ta-p/472949"
+  },
+  {
+    "title": "¿Cómo agrupo usuarios en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-agrupo-usuarios-en-una-cuenta/ta-p/472961"
+  },
+  {
+    "title": "¿Cómo administro las imágenes de perfil para usuarios en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-administro-las-im%C3%A1genes-de-perfil-para-usuarios-en-una/ta-p/472984"
+  },
+  {
+    "title": "¿Cómo edito el nombre del usuario, la zona horaria o el correo electrónico en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-edito-el-nombre-del-usuario-la-zona-horaria-o-el-correo/ta-p/472983"
+  },
+  {
+    "title": "¿Cómo veo las inscripciones para un usuario en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-veo-las-inscripciones-para-un-usuario-en-una-cuenta/ta-p/472933"
+  },
+  {
+    "title": "¿Cómo agrego grupos en un conjunto de grupos en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-agrego-grupos-en-un-conjunto-de-grupos-en-una-cuenta/ta-p/472957"
+  },
+  {
+    "title": "¿Cómo envío un mensaje a un usuario en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-env%C3%ADo-un-mensaje-a-un-usuario-en-una-cuenta/ta-p/472929"
+  },
+  {
+    "title": "¿Cómo modero los ePortfolios como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-modero-los-ePortfolios-como-administrador/ta-p/472926"
+  },
+  {
+    "title": "¿Cómo divido usuarios agrupados en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-divido-usuarios-agrupados-en-una-cuenta/ta-p/472966"
+  },
+  {
+    "title": "¿Cómo administro nuevas opciones de funciones en mi cuenta de usuario como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-administro-nuevas-opciones-de-funciones-en-mi-cuenta-de/ta-p/2158"
+  },
+  {
+    "title": "¿Qué opciones puedo habilitar en mi cuenta de usuario como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/Qu%C3%A9-opciones-puedo-habilitar-en-mi-cuenta-de-usuario-como/ta-p/2138"
+  },
+  {
+    "title": "¿Cómo cambio el idioma preferido en mi cuenta de usuario como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-cambio-el-idioma-preferido-en-mi-cuenta-de-usuario-como/ta-p/2146"
+  },
+  {
+    "title": "¿Cómo configuro la autenticación de múltiples factores para mi cuenta de usuario como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-configuro-la-autenticaci%C3%B3n-de-m%C3%BAltiples-factores-para-mi/ta-p/472914"
+  },
+  {
+    "title": "¿Cómo establezco una zona horaria en mi cuenta de usuario como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-establezco-una-zona-horaria-en-mi-cuenta-de-usuario-como/ta-p/472976"
+  },
+  {
+    "title": "¿Cómo puedo crear o gestionar bancos de preguntas en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-puedo-crear-o-gestionar-bancos-de-preguntas-en-una-cuenta/ta-p/2129"
+  },
+  {
+    "title": "¿Cómo creo un banco de preguntas en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-creo-un-banco-de-preguntas-en-una-cuenta/ta-p/472948"
+  },
+  {
+    "title": "¿Cuáles son los roles y permisos disponibles en Canvas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/Cu%C3%A1les-son-los-roles-y-permisos-disponibles-en-Canvas/ta-p/2136"
+  },
+  {
+    "title": "¿Cómo puedo gestionar o editar los permisos de los usuarios?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-puedo-gestionar-o-editar-los-permisos-de-los-usuarios/ta-p/2122"
+  },
+
+  {
+    "title": "¿Cómo añado un nuevo rol de usuario en Canvas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-a%C3%B1ado-un-nuevo-rol-de-usuario-en-Canvas/ta-p/2166"
+  },
+  {
+    "title": "¿Cómo configuro permisos para un rol a nivel de la cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-configuro-permisos-para-un-rol-a-nivel-de-la-cuenta/ta-p/2144"
+  },
+  {
+    "title": "¿Cómo agrego un rol a nivel del curso en la página Permisos?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-agrego-un-rol-a-nivel-del-curso-en-la-p%C3%A1gina-Permisos/ta-p/472985"
+  },
+  {
+    "title": "¿Cómo agrego una rúbrica a una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-agrego-una-r%C3%BAbrica-a-una-cuenta/ta-p/2148"
+  },
+  {
+    "title": "¿Cómo alineo un resultado con una rúbrica en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-alineo-un-resultado-con-una-r%C3%BAbrica-en-una-cuenta/ta-p/2118"
+  },
+  {
+    "title": "¿Cómo personalizo las valoraciones del dominio del aprendizaje para una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-personalizo-las-valoraciones-del-dominio-del-aprendizaje/ta-p/472944"
+  },
+  {
+    "title": "¿Cómo administro rúbricas en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-administro-r%C3%BAbricas-en-una-cuenta/ta-p/472917"
+  },
+  {
+    "title": "¿Cómo administro las opciones de funciones de una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-administro-las-opciones-de-funciones-de-una-cuenta/ta-p/2139"
+  },
+  {
+    "title": "¿Cómo uso las configuraciones de la cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-uso-las-configuraciones-de-la-cuenta/ta-p/2119"
+  },
+  {
+    "title": "¿Cómo configuro detalles para una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-configuro-detalles-para-una-cuenta/ta-p/2165"
+  },
+  {
+    "title": "¿Cómo creo un anuncio global en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-creo-un-anuncio-global-en-una-cuenta/ta-p/2150"
+  },
+  {
+    "title": "¿Cuáles son las opciones de inscripción y registro disponibles en Canvas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/Cu%C3%A1les-son-las-opciones-de-inscripci%C3%B3n-y-registro-disponibles-en/ta-p/2155"
+  },
+  {
+    "title": "¿Cómo cambio la preferencia de idioma en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-cambio-la-preferencia-de-idioma-en-una-cuenta/ta-p/2143"
+  },
+  {
+    "title": "¿Cómo hago para ver reportes de una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-hago-para-ver-reportes-de-una-cuenta/ta-p/2131"
+  },
+  {
+    "title": "¿Cómo personalizo el menú Ayuda de Canvas en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-personalizo-el-men%C3%BA-Ayuda-de-Canvas-en-una-cuenta/ta-p/2115"
+  },
+  {
+    "title": "¿Cómo accedo al entorno beta de Canvas como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-accedo-al-entorno-beta-de-Canvas-como-administrador/ta-p/2154"
+  },
+  {
+    "title": "¿Cómo configuro las capacidades de almacenamiento para una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-configuro-las-capacidades-de-almacenamiento-para-una-cuenta/ta-p/472990"
+  },
+  {
+    "title": "¿Cómo habilito los pronombres personales en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-habilito-los-pronombres-personales-en-una-cuenta/ta-p/472971"
+  },
+  {
+    "title": "¿Cómo administro las configuraciones de integración del sistema de información del estudiante (SIS) para una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-administro-las-configuraciones-de-integraci%C3%B3n-del-sistema/ta-p/472963"
+  },
+  {
+    "title": "¿Cómo accedo al entorno de prueba de Canvas como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-accedo-al-entorno-de-prueba-de-Canvas-como-administrador/ta-p/472981"
+  },
+  {
+    "title": "¿Cómo activo la autoinscripción en una cuenta y permito a los estudiantes autoinscribirse en un curso?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-activo-la-autoinscripci%C3%B3n-en-una-cuenta-y-permito-a-los/ta-p/472913"
+  },
+  {
+    "title": "¿Cómo habilito las entregas del sistema de información del estudiante (SIS) para una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-habilito-las-entregas-del-sistema-de-informaci%C3%B3n-del/ta-p/472930"
+  },
+  {
+    "title": "¿Cómo habilito el registro abierto en una cuenta y permito a los profesores agregar usuarios a un curso sin cuentas de Canvas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-habilito-el-registro-abierto-en-una-cuenta-y-permito-a-los/ta-p/472924"
+  },
+  {
+    "title": "¿Cómo restrinjo el acceso del estudiante antes o después de una fecha del curso a nivel de la cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-restrinjo-el-acceso-del-estudiante-antes-o-despu%C3%A9s-de-una/ta-p/472972"
+  },
+  {
+    "title": "¿Cómo administro la Política de seguridad del contenido para una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-administro-la-Pol%C3%ADtica-de-seguridad-del-contenido-para-una/ta-p/472941"
+  },
+  {
+    "title": "¿Cómo administro las configuraciones de derechos de autor del archivo para una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-administro-las-configuraciones-de-derechos-de-autor-del/ta-p/472936"
+  },
+  {
+    "title": "¿Cómo cambio el nombre del remitente en las notificaciones por correo electrónico de la cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-cambio-el-nombre-del-remitente-en-las-notificaciones-por/ta-p/472986"
+  },
+  {
+    "title": "¿Cómo activo los servicios web para una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-activo-los-servicios-web-para-una-cuenta/ta-p/472989"
+  },
+  {
+    "title": "¿Cómo desactivo las respuestas al anuncio para todos los cursos en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-desactivo-las-respuestas-al-anuncio-para-todos-los-cursos/ta-p/472945"
+  },
+  {
+    "title": "¿Cómo deshabilito las cargas de contenido multimedia en el Editor de contenido enriquecido?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-deshabilito-las-cargas-de-contenido-multimedia-en-el-Editor/ta-p/472946"
+  },
+  {
+    "title": "¿De qué manera advierto a los usuarios en mi cuenta sobre el uso de las direcciones de correo electrónico no institucionales para la información confidencial?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/De-qu%C3%A9-manera-advierto-a-los-usuarios-en-mi-cuenta-sobre-el-uso/ta-p/472977"
+  },
+  {
+    "title": "¿Cómo formateo los archivos de texto CSV para subir datos del SIS a una cuenta de Canvas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-formateo-los-archivos-de-texto-CSV-para-subir-datos-del-SIS/ta-p/2135"
+  },
+  {
+    "title": "¿Qué integraciones del Sistema de información del alumno (SIS) hay disponibles en Canvas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/Qu%C3%A9-integraciones-del-Sistema-de-informaci%C3%B3n-del-alumno-SIS-hay/ta-p/2142"
+  },
+  {
+    "title": "¿Cómo importo datos de SIS a una cuenta de Canvas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-importo-datos-de-SIS-a-una-cuenta-de-Canvas/ta-p/472931"
+  },
+  {
+    "title": "¿Cómo creo una integración de datos automatizada para una cuenta con Canvas y mi SIS?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-creo-una-integraci%C3%B3n-de-datos-automatizada-para-una-cuenta/ta-p/472974"
+  },
+  {
+    "title": "¿Cómo practico usar la API para importar los datos de SIS en una cuenta de Canvas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-practico-usar-la-API-para-importar-los-datos-de-SIS-en-una/ta-p/472939"
+  },
+  {
+    "title": "¿Qué debo saber acerca de crear un script para importar datos del SIS automáticamente a una cuenta de Canvas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/Qu%C3%A9-debo-saber-acerca-de-crear-un-script-para-importar-datos-del/ta-p/472973"
+  },
+  {
+    "title": "¿Cómo puedo administrar los boletos de ayuda de mi institución?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-puedo-administrar-los-boletos-de-ayuda-de-mi-instituci%C3%B3n/ta-p/2130"
+  },
+  {
+    "title": "¿Cómo sabré si hay una interrupción de Canvas?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-sabr%C3%A9-si-hay-una-interrupci%C3%B3n-de-Canvas/ta-p/472916"
+  },
+  {
+    "title": "¿Cómo agrego un nuevo período en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-agrego-un-nuevo-per%C3%ADodo-en-una-cuenta/ta-p/2113"
+  },
+  {
+    "title": "¿Cómo uso la página Períodos (Terms) en una cuenta?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/C%C3%B3mo-uso-la-p%C3%A1gina-Per%C3%ADodos-Terms-en-una-cuenta/ta-p/472925"
+  },
+  {
+    "title": "¿Qué debo hacer al comienzo y al final de cada período como administrador?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/Qu%C3%A9-debo-hacer-al-comienzo-y-al-final-de-cada-per%C3%ADodo-como/ta-p/472943"
+  },
+  {
+    "title": "¿Qué debo recomendar a los profesores que hagan al comienzo y al final de cada período?",
+    "url": "https://community.canvaslms.com/t5/Gu%C3%ADa-de-Administraci%C3%B3n/Qu%C3%A9-debo-recomendar-a-los-profesores-que-hagan-al-comienzo-y-al/ta-p/472953"
+  }
+]
