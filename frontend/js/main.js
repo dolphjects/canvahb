@@ -1,6 +1,6 @@
 const chatMessages = document.getElementById('chatMessages');
 const messageInput = document.getElementById('messageInput');
-const BACKEND_URL = "http://localhost:3000";
+const BACKEND_URL = "https://canva-helpbot.onrender.com:3000";
 
 let currentChatState = 'awaiting_role'; 
 let userRole = null; 
