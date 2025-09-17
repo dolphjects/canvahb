@@ -1,27 +1,27 @@
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
+/* Asegura que toda la página ocupe el 100% del espacio */
+html, body {
+    height: 100%; /* Ocupa toda la altura disponible */
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f0f0f000;
+    background-color: #f0f2f5; /* Color de fondo general del navegador */
     color: #333;
+    display: flex; /* Usamos flexbox para que el contenedor principal pueda estirarse */
+    flex-direction: column;
 }
 
+/* El contenedor principal del chat ahora ocupa toda la pantalla */
 .chat-container {
-    width: 90%;
-    max-width: 600px;
+    width: 100%; /* Ocupa todo el ancho */
+    height: 100%; /* Ocupa toda la altura */
     background-color: #fff;
-    border-radius: 12px;
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    border-radius: 0; /* Elimina los bordes redondeados */
+    box-shadow: none; /* Elimina la sombra */
     display: flex;
     flex-direction: column;
     overflow: hidden;
-    height: 85vh; /* Altura del contenedor del chat */
-    min-height: 400px;
 }
 
+/* El resto del CSS se mantiene igual, ya que no afecta el tamaño principal */
 .chat-header {
     background-color: #FF5722; /* Naranja Anáhuac */
     color: white;
@@ -55,7 +55,7 @@ body {
     align-self: flex-end; /* Mensajes del usuario a la derecha */
     background-color: #FF5722; /* Naranja Anáhuac para el usuario */
     color: white;
-    border-bottom-right-radius: 4px; /* Pequeño ajuste para burbuja */
+    border-bottom-right-radius: 4px;
 }
 
 .message.bot {
@@ -63,7 +63,7 @@ body {
     background-color: #f0f0f0; /* Gris claro para el bot */
     color: #333;
     border: 1px solid #ddd;
-    border-bottom-left-radius: 4px; /* Pequeño ajuste para burbuja */
+    border-bottom-left-radius: 4px;
 }
 /* Estilos para los enlaces y listas dentro de los mensajes del bot */
 .message.bot a {
@@ -130,34 +130,32 @@ body {
     transform: translateY(0);
 }
 
-/* ... (todo tu CSS existente) ... */
-
 /* Estilos para el contenedor de opciones del bot */
 .bot-options {
     margin-top: 10px;
-    display: flex; /* Para que los botones estén en línea */
-    gap: 10px; /* Espacio entre los botones */
-    flex-wrap: wrap; /* Permite que los botones se envuelvan si no hay espacio */
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
 }
 
 /* Estilos para los botones de opción del bot */
 .bot-options button {
-    background-color: #007bff; /* Un azul genérico, puedes cambiarlo */
+    background-color: #007bff;
     color: white;
     border: none;
-    border-radius: 8px; /* Bordes un poco más suaves */
+    border-radius: 8px;
     padding: 10px 15px;
     cursor: pointer;
     font-size: 0.95em;
     font-weight: bold;
     transition: background-color 0.3s ease, transform 0.2s ease;
     outline: none;
-    flex-grow: 1; /* Permite que los botones se expandan */
-    max-width: 200px; /* Máximo ancho para que no sean demasiado grandes */
+    flex-grow: 1;
+    max-width: 200px;
 }
 
 .bot-options button:hover {
-    background-color: #0056b3; /* Más oscuro al pasar el mouse */
+    background-color: #0056b3;
     transform: translateY(-1px);
 }
 
@@ -166,9 +164,9 @@ body {
     transform: translateY(0);
 }
 
-/* Estilos específicos para el botón "No, gracias" para diferenciarlo */
-.bot-options button:nth-child(2) { /* Selecciona el segundo botón (No, gracias) */
-    background-color: #dc3545; /* Rojo para una acción de "cancelar" */
+/* Estilos específicos para el botón "No, gracias" */
+.bot-options button:nth-child(2) {
+    background-color: #dc3545;
 }
 
 .bot-options button:nth-child(2):hover {
@@ -181,18 +179,18 @@ body {
 
 /* Estilo para el título de la pregunta dentro del resumen */
 .message.bot .question-title {
-    color: #FFA500; /* Un color naranja. Puedes elegir el que prefieras, por ejemplo, un tono de la marca Anáhuac */
+    color: #FFA500;
     font-weight: bold;
-    display: block; /* Para asegurar que ocupe su propia línea */
-    margin-bottom: 5px; /* Espacio entre el título y el resumen */
+    display: block;
+    margin-bottom: 5px;
 }
 
 /* Ajuste general para los enlaces en los mensajes del bot */
 .message.bot a {
-    color: #1a73e8; /* Un azul típico para enlaces, o tu color de marca */
-    text-decoration: none; /* Sin subrayado por defecto */
+    color: #1a73e8;
+    text-decoration: none;
 }
 
 .message.bot a:hover {
-    text-decoration: underline; /* Subrayado al pasar el mouse */
+    text-decoration: underline;
 }
